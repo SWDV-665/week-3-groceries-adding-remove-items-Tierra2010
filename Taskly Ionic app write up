@@ -1,0 +1,13 @@
+For my final app write up I am creating a task ionic app. Heroku is a server where you can host your application so that it can be available to everyone who tries to reach it using its uniform resource locator. The goal of my task app is to help users keep track of their tasks and see what needs to be done within the application. This is how I plan to start with the following steps for creating my app
+
+Step 1: Install NodeJS on your PC
+
+Step 2: Install Visual Studio Code
+
+Step 3: Install Andriod Studio.
+
+Step 4: Setup Emulator in Andriod Studio 
+
+Step 5: Create React Project:
+
+My application is called Taskly. Taskly will be easily assessable and easy to maneuver by the user.Ionic is an HTML5 mobile app development framework targeted at building hybrid mobile apps. Hybrid apps are essentially small websites running in a browser shell in an app that have access to the native platform layer. Hybrid apps have many benefits over pure native apps, specifically in terms of platform support, speed of development, and access to 3rd party code.
